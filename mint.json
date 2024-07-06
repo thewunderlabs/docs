@@ -18,7 +18,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Subscribe",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
@@ -29,8 +29,8 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "group": "Popular",
+      "pages": ["Automation", "Chatbots"]
     },
     {
       "group": "Essentials",
